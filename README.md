@@ -31,7 +31,14 @@ Backend-focused engineer building data-driven web applications, analytics dashbo
 
 ## Featured Projects
 
-### File Upload Platform — Spring Boot + React.js + AWS S3 &nbsp;`Java`
+### SQL Data Analytics Project — T-SQL / SQL Server &nbsp;`SQL`
+End-to-end analytics on a sales data warehouse (60K+ records, 18K+ customers), from exploration to BI-ready reporting views.
+- Ran exploratory analysis and advanced analytics: YoY trends, running totals, ranking, customer segmentation and part-to-whole breakdowns
+- Built reusable customer and product report views with KPIs such as recency, average order value and monthly spend
+- Used CTEs, window functions (`LAG`, `RANK`, `SUM() OVER`) and star-schema joins
+- [View repository](https://github.com/Sheikh-MD-Saif/sql-data-analytics-project)
+
+---### File Upload Platform — Spring Boot + React.js + AWS S3 &nbsp;`Java`
 Full-stack web application for scalable file management via cloud storage.
 - Built a React.js frontend connected to a Spring Boot REST API for seamless file upload and management
 - Integrated AWS S3 for secure, scalable cloud-based file storage
