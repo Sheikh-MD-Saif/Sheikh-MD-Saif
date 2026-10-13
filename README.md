@@ -14,7 +14,7 @@ Backend-focused engineer building data-driven web applications, analytics dashbo
 `Django` `FastAPI` `Spring Boot` `React.js`
 
 **Cloud & Infrastructure**
-`AWS S3` `PostgreSQL` `REST APIs` `Git`
+`AWS S3` `PostgreSQL` `MicrosoftSQL` `REST APIs` `Git` `Pandas` `NumPy`
 
 ---
 
