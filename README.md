@@ -11,10 +11,10 @@ Backend-focused engineer building data-driven web applications, analytics dashbo
 `Python` `Java` `JavaScript` `SQL` `C/C++`
 
 **Frameworks & Libraries**
-`Django` `FastAPI` `Spring Boot` `React.js`
+`Django` `FastAPI` `Spring Boot` `React.js` `Pandas` `NumPy`
 
 **Cloud & Infrastructure**
-`AWS S3` `PostgreSQL` `MS SQL Server` `REST APIs` `Git` `Pandas` `NumPy`
+`AWS S3` `PostgreSQL` `MS SQL Server` `REST APIs` `Git`
 
 ---
 
