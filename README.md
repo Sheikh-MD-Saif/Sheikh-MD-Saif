@@ -14,7 +14,7 @@ Backend-focused engineer building data-driven web applications, analytics dashbo
 `Django` `FastAPI` `Spring Boot` `React.js`
 
 **Cloud & Infrastructure**
-`AWS S3` `PostgreSQL` `MicrosoftSQL` `REST APIs` `Git` `Pandas` `NumPy`
+`AWS S3` `PostgreSQL` `MS SQL Server` `REST APIs` `Git` `Pandas` `NumPy`
 
 ---
 
@@ -75,6 +75,7 @@ Low-cost intelligent parking and license plate recognition system.
 
 ## Currently Learning
 
+- Machine Learning & AI
 - System Design & Scalable Backend Architecture
 - Advanced SQL Optimization
 - Cloud Services & Distributed Systems
